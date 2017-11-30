@@ -283,5 +283,17 @@ ul{
   content: "";
   display: table;
   clear: both;
+  padding-bottom: 15%;
 }
 
+#logo-second-column {
+  float: left;
+  width: 50%;
+}
+
+#logo-second-grid {
+  content: "";
+  display: table;
+  clear: both;
+  padding-bottom: 15%;
+}
