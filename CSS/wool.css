@@ -171,9 +171,6 @@ img{
     height: 50%;
 }
 
-img:nth-child(1){
-    margin-bottom: -12%;
-}
 
 #first-chart{
 margin-bottom: 12%;
@@ -276,3 +273,15 @@ ul{
     line-height: 2.8em;
     text-transform: lowercase;
 }
+
+#logo-first-column {
+  float: left;
+  width: 33%;
+}
+
+#logo-first-grid {
+  content: "";
+  display: table;
+  clear: both;
+}
+
