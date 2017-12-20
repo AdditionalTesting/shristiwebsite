@@ -182,8 +182,8 @@ nav a:hover{
 }
 
 #individual_project > div > p{
-  font-size: .9em;
-  line-height: 2em;
+  /*font-size: .9em;
+  line-height: 2em; */
 }
 
 #individual_project b{
